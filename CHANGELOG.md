@@ -6,7 +6,7 @@ Let's start with a quote: "Why do programmers like dark mode? Because light attr
 
 As always, lots of improvements have been made. Memory usage has been reduced, while performance has been increased — it sounds too good to be true, but it's the reality.
 Battery heating is now also shown on the overview dashboard, and the drives dashboard now always shows the consumption.
-To make your TeslaMate experience even better, we have also made more than 49 other improvements.
+To make your TeslaMate experience even better, we have also made more than 50 other improvements.
 
 Enjoy!
 
@@ -93,6 +93,7 @@ We believe this step is necessary to protect the project from exploitation and t
 - docs: fix external image rendering with Traefik SSL (#5074 - @swiffer)
 - docs(home_assistant): default tesla_active_route_distance_to_arrival sensor to kilometers (#5086 - @kenni)
 - docs: Remove hints to now deprecated Grafana VS Code Extension in contribution guide (#5110 - @swiffer)
+- docs: Add reference to TeslaMate Achievements (#5134 - @crstian19)
 
 ## [2.2.0] - 2025-11-06
 
