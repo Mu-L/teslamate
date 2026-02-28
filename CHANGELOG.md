@@ -6,7 +6,7 @@ Let's start with a quote: "Why do programmers like dark mode? Because light attr
 
 As always, lots of improvements have been made. Memory usage has been reduced, while performance has been increased — it sounds too good to be true, but it's the reality.
 Battery heating is now also shown on the overview dashboard, and the drives dashboard now always shows the consumption.
-To make your TeslaMate experience even better, we have also made more than 46 other improvements.
+To make your TeslaMate experience even better, we have also made more than 47 other improvements.
 
 Enjoy!
 
@@ -37,6 +37,7 @@ We believe this step is necessary to protect the project from exploitation and t
 - feat(grafana): disable update checks as version is handled via docker image (#5115 - @fatbasstard)
 - perf: use static asset compression via brotli and zstandard to enhance HTTP Compression (#5113 - @swiffer)
 - feat: use Grafana 12.4.0 (#4965 - @swiffer)
+- fix(vehicle): update state transition to handle offline scenario after a drive end with no network (#5152 - @jlestel)
 
 #### Build, CI, internal
 
